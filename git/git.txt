@@ -1,0 +1,11 @@
+如何写好Github中的README?
+https://www.zhihu.com/question/29100816
+
+README文件语法解读,即Github Flavored Markdown语法介绍
+https://github.com/guodongxiaren/README
+
+Markdown 语法说明
+https://www.appinn.com/markdown/
+
+Markdown 在线工具
+http://mahua.jser.me/
