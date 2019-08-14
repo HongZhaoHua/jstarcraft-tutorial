@@ -1,75 +1,13 @@
-# 标题:描述
+JStarCraft Core:目标是轻量级的核心编程框架.涵盖了缓存,ORM,编解码,资源,脚本,监控,通讯,事务8个方面的核心特性.
 
-希望路过的同学,顺手给JStarCraft框架点个Star,算是对作者的一种鼓励吧!
+[https://github.com/HongZhaoHua/jstarcraft-core](https://github.com/HongZhaoHua/jstarcraft-core)
 
-****
+JStarCraft AI:目标是最快最全的Java机器学习库.涵盖了从数据处理到模型的训练与评估,支持硬件加速和并行计算.
+[https://github.com/HongZhaoHua/jstarcraft-ai](https://github.com/HongZhaoHua/jstarcraft-ai)
 
-## 目录
+JStarCraft RNS:目标是最快最全的Java推荐与搜索引擎.涵盖了70多种排序预测与评分预测算法.
+[https://github.com/HongZhaoHua/jstarcraft-rns](https://github.com/HongZhaoHua/jstarcraft-rns)
 
-* [介绍](#介绍)
-* [特性](#特性)
-* [安装](#安装)
-* [使用](#使用)
-* [架构](#架构)
-* [概念](#概念)
-* [示例](#示例)
-* [对比](#对比)
-* [版本](#版本)
-* [参考](#参考)
-* [协议](#协议)
-* [作者](#作者)
-* [致谢](#致谢)
+JStarCraft Example:一个基于JStarCraft RNS引擎,Spring Boot框架和MovieLens 100K数据集搭建的电影演示项目.包括了个性化推荐与个性化搜索两个部分.
+[https://github.com/HongZhaoHua/jstarcraft-example](https://github.com/HongZhaoHua/jstarcraft-example)
 
-****
-
-## 介绍
-
-****
-
-## 特性
-
-****
-
-## 安装
-
-****
-
-## 使用
-
-****
-
-## 架构
-
-****
-
-## 概念
-
-****
-
-## 示例
-
-****
-
-## 对比
-
-****
-
-## 版本
-
-****
-
-## 参考
-
-****
-
-## 协议
-
-****
-
-## 作者
-
-****
-
-## 致谢
-
-****
