@@ -1,4 +1,10 @@
-## JStarCraft Framework一个涵盖核心编程,人工智能,云,推荐与搜索领域的轻量级框架
+# JStarCraft Framework
+
+****
+
+一套涵盖核心编程,人工智能,云,推荐与搜索领域的轻量级框架.
+
+****
 
 #### JStarCraft Core
 JStarCraft Core:目标是轻量级的核心编程框架.涵盖了缓存,ORM,编解码,资源,脚本,监控,通讯,事务8个方面的核心特性.
