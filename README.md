@@ -19,6 +19,6 @@ JStarCraft RNS:目标是最快最全的Java推荐与搜索引擎.涵盖了70多�
 [https://github.com/HongZhaoHua/jstarcraft-rns](https://github.com/HongZhaoHua/jstarcraft-rns)
 
 #### JStarCraft Example
-JStarCraft Example:一个基于JStarCraft RNS引擎,Spring Boot框架和MovieLens 100K数据集搭建的电影演示项目.包括了个性化推荐与个性化搜索两个部分.
+JStarCraft Example:一个基于JStarCraft RNS引擎,Spring Boot框架和MovieLens 100K数据集搭建的电影演示项目.涵盖了个性化推荐与个性化搜索2个部分.
 [https://github.com/HongZhaoHua/jstarcraft-example](https://github.com/HongZhaoHua/jstarcraft-example)
 
