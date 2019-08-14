@@ -1,5 +1,4 @@
 JStarCraft Core:目标是轻量级的核心编程框架.涵盖了缓存,ORM,编解码,资源,脚本,监控,通讯,事务8个方面的核心特性.
-
 [https://github.com/HongZhaoHua/jstarcraft-core](https://github.com/HongZhaoHua/jstarcraft-core)
 
 JStarCraft AI:目标是最快最全的Java机器学习库.涵盖了从数据处理到模型的训练与评估,支持硬件加速和并行计算.
