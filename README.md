@@ -44,11 +44,11 @@
 
 ## JStarCraft Example
 
-基于JStarCraft RNS引擎,Spring Boot框架和公共数据集搭建的个性化图书/电影/新闻演示项目.
+基于JStarCraft RNS引擎,Spring Boot框架和公共数据集搭建的千人千面演示项目. 
 
-使用者可以通过该项目了解**推荐系统**与**搜索系统**的运作流程.
+系统会根据用户的行为记录,自动调整用户的推荐内容和搜索内容.使用者可以通过该项目了解**推荐系统**与**搜索系统**的运作流程. 
 
-涵盖了个性化推荐与个性化搜索2个部分.系统会根据用户的行为记录,自动调整用户的推荐内容和搜索内容.
+涵盖了个性化推荐与个性化搜索2个部分.
 
 [https://github.com/HongZhaoHua/jstarcraft-example](https://github.com/HongZhaoHua/jstarcraft-example)
 
