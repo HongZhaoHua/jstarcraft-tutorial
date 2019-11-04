@@ -30,6 +30,18 @@
 
 ****
 
+## JStarCraft NLP
+
+专注于解决自然语言处理领域的几个核心问题:**词法分析,句法分析,语义分析,信息抽取,文本聚类和文本分类**.
+
+为相关领域的研发人员提供完整的通用设计与参考实现.
+
+涵盖了多种自然语言处理算法,整合了多个自然语言处理框架.
+
+[https://github.com/HongZhaoHua/jstarcraft-rns](https://github.com/HongZhaoHua/jstarcraft-nlp)
+
+****
+
 ## JStarCraft RNS
 
 专注于解决推荐领域与搜索领域的两个核心问题:**排序预测(Ranking)和评分预测(Rating)**.
