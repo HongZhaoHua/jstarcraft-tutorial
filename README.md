@@ -38,7 +38,7 @@
 
 涵盖了多种自然语言处理算法,整合了多个自然语言处理框架.
 
-[https://github.com/HongZhaoHua/jstarcraft-rns](https://github.com/HongZhaoHua/jstarcraft-nlp)
+[https://github.com/HongZhaoHua/jstarcraft-nlp](https://github.com/HongZhaoHua/jstarcraft-nlp)
 
 ****
 
