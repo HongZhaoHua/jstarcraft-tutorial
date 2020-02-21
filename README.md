@@ -12,7 +12,7 @@
 
 让相关领域的研发人员能够专注高层设计而不用关注底层实现.
 
-涵盖了缓存,对象关系映射,编解码,资源,脚本,监控,通讯,事务8个方面.
+涵盖了缓存,编解码,通讯,事件,监控,存储,配置,脚本和事务9个方面.
 
 [https://github.com/HongZhaoHua/jstarcraft-core](https://github.com/HongZhaoHua/jstarcraft-core)
 
