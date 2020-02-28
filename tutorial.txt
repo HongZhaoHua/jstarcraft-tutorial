@@ -1,3 +1,6 @@
+中文技术文档的写作规范:
+https://github.com/ruanyf/document-style-guide
+
 Hutool是一个Java工具包,也只是一个工具包,它帮助我们简化每一行代码,减少每一个方法,让Java语言也可以"甜甜的":
 https://hutool.cn/docs/
 https://github.com/looly/hutool/
