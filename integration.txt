@@ -3,3 +3,6 @@ https://github.com/justauth/JustAuth
 
 IJPay 让支付触手可及，封装了微信支付、QQ支付、支付宝支付、京东支付、银联支付常用的支付方式以及各种常用的接口:
 https://github.com/Javen205/IJPay
+
+集成包括Google翻译，百度翻译，有道翻译，必应翻译，搜狗翻译:
+https://github.com/jtsinghua/multitranslation
