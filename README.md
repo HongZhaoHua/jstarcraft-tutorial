@@ -2,7 +2,7 @@
 
 ****
 
-一套涵盖核心编程,人工智能,云,推荐与搜索领域的轻量级框架.
+一套涵盖核心编程,人工智能,推荐与搜索,自然语言处理,云服务领域的Java框架.
 
 ****
 
@@ -30,6 +30,18 @@
 
 ****
 
+## JStarCraft RNS
+
+专注于解决推荐领域与搜索领域的两个核心问题:**排序预测(Ranking)和评分预测(Rating)**.
+
+为相关领域的研发人员提供完整的通用设计与参考实现.
+
+涵盖了70多种排序预测与评分预测算法,是最快最全的Java推荐与搜索引擎.
+
+[https://github.com/HongZhaoHua/jstarcraft-rns](https://github.com/HongZhaoHua/jstarcraft-rns)
+
+****
+
 ## JStarCraft NLP
 
 专注于解决自然语言处理领域的几个核心问题:**词法分析,句法分析,语义分析,信息抽取,文本聚类和文本分类**.
@@ -41,18 +53,6 @@
 兼容**Lucene/Solr/ElasticSearch**插件.
 
 [https://github.com/HongZhaoHua/jstarcraft-nlp](https://github.com/HongZhaoHua/jstarcraft-nlp)
-
-****
-
-## JStarCraft RNS
-
-专注于解决推荐领域与搜索领域的两个核心问题:**排序预测(Ranking)和评分预测(Rating)**.
-
-为相关领域的研发人员提供完整的通用设计与参考实现.
-
-涵盖了70多种排序预测与评分预测算法,是最快最全的Java推荐与搜索引擎.
-
-[https://github.com/HongZhaoHua/jstarcraft-rns](https://github.com/HongZhaoHua/jstarcraft-rns)
 
 ****
 
