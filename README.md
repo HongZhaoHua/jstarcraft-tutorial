@@ -16,6 +16,12 @@
 
 [https://github.com/HongZhaoHua/jstarcraft-core](https://github.com/HongZhaoHua/jstarcraft-core)
 
+| 日期 | 变更 |
+| ---- | ---- |
+| 2019.05.01 | common模块selection包:<br/>* 支持4种查询表达式(CSS/JSONPath/RegExp/XPath)<br/>* 支持5种查询内容(JSON/HTML/Swing/Text/XML) |
+
+
+
 ****
 
 ## JStarCraft AI
