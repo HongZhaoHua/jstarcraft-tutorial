@@ -16,11 +16,10 @@
 
 [https://github.com/HongZhaoHua/jstarcraft-core](https://github.com/HongZhaoHua/jstarcraft-core)
 
-| 日期 | 变更 |
-| ---- | ---- |
-| 2019.05.01 | common模块selection包:<br/>* 支持4种查询表达式(CSS/JSONPath/RegExp/XPath)<br/>* 支持5种查询内容(JSON/HTML/Swing/Text/XML) |
-
-
+| 日期 | 变更记录 |
+| :----: | :----: |
+| 2020.04.16 | common模块script包:<br/>支持5种脚本语言(Groovy/JS/Lua/Python/Ruby) |
+| 2019.05.01 | common模块selection包:<br/>支持4种查询表达式(CSS/JSONPath/RegExp/XPath)<br/>支持5种查询内容(JSON/HTML/Swing/Text/XML) |
 
 ****
 
@@ -34,6 +33,44 @@
 
 [https://github.com/HongZhaoHua/jstarcraft-ai](https://github.com/HongZhaoHua/jstarcraft-ai)
 
+| 日期 | 变更记录 |
+| :----: | :----: |
+|  |  |
+
+****
+
+## JStarCraft DIP
+
+专注于解决数字图像处理领域的几个核心问题:
+
+为相关领域的研发人员提供完整的通用设计与参考实现.
+
+涵盖了多种数字图像处理算法,适配了多个数字图像处理框架.
+
+[https://github.com/HongZhaoHua/jstarcraft-dip](https://github.com/HongZhaoHua/jstarcraft-dip)
+
+| 日期 | 变更记录 |
+| :----: | :----: |
+|  |  |
+
+****
+
+## JStarCraft NLP
+
+专注于解决自然语言处理领域的几个核心问题:**词法分析,句法分析,语义分析,语种检测,信息抽取,文本聚类和文本分类**.
+
+为相关领域的研发人员提供完整的通用设计与参考实现.
+
+涵盖了多种自然语言处理算法,适配了多个自然语言处理框架.
+
+兼容**Lucene/Solr/ElasticSearch**插件.
+
+[https://github.com/HongZhaoHua/jstarcraft-nlp](https://github.com/HongZhaoHua/jstarcraft-nlp)
+
+| 日期 | 变更记录 |
+| :----: | :----: |
+| 2019.04.11 | extraction模块detection包:<br/>支持406种语言的语种检测 |
+
 ****
 
 ## JStarCraft RNS
@@ -46,19 +83,9 @@
 
 [https://github.com/HongZhaoHua/jstarcraft-rns](https://github.com/HongZhaoHua/jstarcraft-rns)
 
-****
-
-## JStarCraft NLP
-
-专注于解决自然语言处理领域的几个核心问题:**词法分析,句法分析,语义分析,信息抽取,文本聚类和文本分类**.
-
-为相关领域的研发人员提供完整的通用设计与参考实现.
-
-涵盖了多种自然语言处理算法,适配了多个自然语言处理框架.
-
-兼容**Lucene/Solr/ElasticSearch**插件.
-
-[https://github.com/HongZhaoHua/jstarcraft-nlp](https://github.com/HongZhaoHua/jstarcraft-nlp)
+| 日期 | 变更记录 |
+| :----: | :----: |
+|  |  |
 
 ****
 
@@ -72,3 +99,8 @@
 
 [https://github.com/HongZhaoHua/jstarcraft-example](https://github.com/HongZhaoHua/jstarcraft-example)
 
+| 日期 | 变更记录 |
+| :----: | :----: |
+|  |  |
+
+****
