@@ -12,7 +12,7 @@
 
 让相关领域的研发人员能够专注高层设计而不用关注底层实现.
 
-涵盖了缓存,编解码,通讯,事件,监控,存储,配置,脚本和事务9个方面.
+涵盖了缓存,存储,编解码,资源,脚本,监控,通讯,事件,事务9个方面.
 
 [https://github.com/HongZhaoHua/jstarcraft-core](https://github.com/HongZhaoHua/jstarcraft-core)
 
@@ -39,6 +39,7 @@
 | :----: | :----: |
 | 2019.05.14 | math模块structure包:<br/>支持10种向量结构 |
 | 2019.05.14 | math模块algorithm包:<br/>支持5种局部敏感哈希 |
+| 2019.05.20 | math模块algorithm包:<br/>支持TF-IDF与BM25 |
 
 ****
 
