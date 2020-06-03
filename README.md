@@ -22,6 +22,7 @@
 | 2019.05.01 | common模块selection包:<br/>支持4种查询表达式(CSS/JSONPath/RegExp/XPath)<br/>支持5种查询内容(JSON/HTML/Swing/Text/XML) |
 | 2019.05.08 | transaction模块:<br/>支持7种分布式锁(Cassandra/ElasticSearch/Hazelcast/Hibernate/Mongo/Redis/ZooKeeper) |
 | 2019.05.11 | common模块instant包:<br/>支持5种日期时间表达式(阳历/阴历/伊斯兰历/节气/间隔) |
+| 2019.06.03 | event模块:<br/>支持2种事件模式(Queue/Topic)<br/>兼容9种消息传递协议/组件( AMQP/JMS/Memory/MQTT/RabbitMQ/Redis/RocketMQ/STOMP/Vert.x) |
 
 ****
 
