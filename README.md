@@ -47,6 +47,7 @@ Elasticsearch
 | 2020.05.20 | math模块algorithm包:<br/>支持TF-IDF与BM25 |
 | 2020.06.09 | math模块algorithm包:<br/>支持20种核技巧 |
 | 2020.06.09 | math模块algorithm包:<br/>支持核距离与核相似度 |
+| 2020.07.07 | math模块algorithm包:<br/>支持微积分导数 |
 
 ****
 
