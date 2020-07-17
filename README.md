@@ -28,6 +28,18 @@
 
 ****
 
+## JStarCraft Cloud
+
+目标是提供一个通用的中间件抽象层,作为微服务项目的基础.
+
+使得研发人员能够在各种实现层(配置中心/注册中心/任务调度/网关/云服务)之间无缝切换.
+
+涵盖了配置管理,注册管理,灰度隔离,链路追踪,任务调度,网关和云服务7个方面
+
+[https://github.com/HongZhaoHua/jstarcraft-cloud](https://github.com/HongZhaoHua/jstarcraft-cloud)
+
+****
+
 ## JStarCraft AI
 
 目标是提供一个完整的Java机器学习框架,作为人工智能在学术界与工业界的桥梁.
