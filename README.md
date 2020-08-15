@@ -34,7 +34,7 @@
 
 让相关领域的研发人员能够在各种实现层之间无缝切换.
 
-涵盖了配置中间件,治理中间件,链路中间件,网关中间件和云服务5个方面.
+涵盖了配置中间件,治理中间件,监控中间件,网关中间件和云服务5个方面.
 
 [https://github.com/HongZhaoHua/jstarcraft-cloud](https://github.com/HongZhaoHua/jstarcraft-cloud)
 
