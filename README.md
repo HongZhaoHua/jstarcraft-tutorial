@@ -41,6 +41,7 @@
 | 日期 | 变更记录 |
 | :----: | :----: |
 | 2020.08.14 | governance模块:<br/>支持3种治理中间件(Consul/Eureka/Nacos) |
+| 2020.08.17 | profile模块:<br/>支持3种配置中间件(Config/Consul/Nacos) |
 
 ****
 
