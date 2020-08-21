@@ -3,7 +3,13 @@ https://github.com/ruanyf/document-style-guide
 
 Hutool是一个Java工具包,也只是一个工具包,它帮助我们简化每一行代码,减少每一个方法,让Java语言也可以"甜甜的":
 https://hutool.cn/docs/
-https://github.com/looly/hutool/
+https://github.com/looly/hutool
+
+Bus 是一个微服务套件、基础框架，它基于Java8编写，参考、借鉴了大量已有框架、组件的设计，可以作为后端服务的开发基础中间件:
+https://github.com/aoju/bus
+
+Nutz手册,涵盖方方面面:
+https://nutzam.com/core/nutz_preface.html
 
 sika-code(简称AC) 企业级开发基础框架:
 https://github.com/sika-code/sika-code
