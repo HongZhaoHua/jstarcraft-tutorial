@@ -45,6 +45,7 @@
 | 2020.08.19 | profile模块:<br/>支持5种配置中间件(Apollo/Config/Consul/Nacos/ZooKeeper) |
 | 2020.08.20 | profile模块:<br/>支持7种配置中间件(Apollo/Config/Consul/etcd/Nacos/Redis/ZooKeeper) |
 | 2020.08.21 | governance模块:<br/>支持5种治理中间件(Consul/etcd/Eureka/Nacos/ZooKeeper) |
+| 2020.08.24 | governance模块:<br/>支持6种治理中间件(Consul/etcd/Eureka/Nacos/Redis/ZooKeeper) |
 
 ****
 
