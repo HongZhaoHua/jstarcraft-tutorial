@@ -25,6 +25,7 @@
 | 2020.06.03 | event模块:<br/>支持2种事件模式(Queue/Topic)<br/>兼容9种消息传递协议/组件(AMQP/JMS/Memory/MQTT/RabbitMQ/Redis/RocketMQ/STOMP/Vert.x) |
 | 2020.06.11 | event模块:<br/>支持2种事件模式(Queue/Topic)<br/>兼容10种消息传递协议/组件(AMQP/JMS/Kafka/Memory/MQTT/RabbitMQ/Redis/RocketMQ/STOMP/Vert.x) |
 | 2020.06.30 | storage模块:<br/>支持1种键值数据库(Berkeley DB)<br/>支持3种文档数据库(Elasticsearch/Lucene/Mongo DB)<br/>支持2种关系数据库(Hibernate/MyBatis)<br/>支持1种图数据库(Neo4j) |
+| 2020.09.09 | codec模块:<br/>支持3种文本编解码(CSV/JSON/YAML)<br/>支持3种二进制编解码(Kryo/MessagePack/Protocol Buffer X) |
 
 ****
 
