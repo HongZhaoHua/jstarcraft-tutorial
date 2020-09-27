@@ -18,7 +18,7 @@
 
 | 日期 | 变更记录 |
 | :----: | :----: |
-| 2020.04.16 | common模块script包:<br/>支持5种脚本语言(Groovy/JS/Lua/Python/Ruby) |
+| 2020.04.16 | script模块:<br/>支持6种脚本语言(Groovy/JS/Lua/MVEL/Python/Ruby) |
 | 2020.05.01 | common模块selection包:<br/>支持4种查询表达式(CSS/JSONPath/RegExp/XPath)<br/>支持5种查询内容(JSON/HTML/Swing/Text/XML) |
 | 2020.05.08 | transaction模块:<br/>支持7种分布式锁(Cassandra/ElasticSearch/Hazelcast/Hibernate/Mongo/Redis/ZooKeeper) |
 | 2020.05.11 | common模块instant包:<br/>支持5种日期时间表达式(阳历/阴历/伊斯兰历/节气/间隔) |
@@ -28,6 +28,7 @@
 | 2020.09.09 | codec模块:<br/>支持3种文本编解码(CSV/JSON/YAML)<br/>支持3种二进制编解码(Kryo/MessagePack/Standard) |
 | 2020.09.10 | codec模块:<br/>支持4种文本编解码(CSV/JSON/XML/YAML)<br/>支持4种二进制编解码(Hessian/Kryo/MessagePack/Standard) |
 | 2020.09.22 | event模块:<br/>支持2种事件模式(Queue/Topic)<br/>兼容11种消息传递协议/组件(AMQP/JMS/Kafka/Memory/MQTT/QMQ/RabbitMQ/Redis/RocketMQ/STOMP/Vert.x) |
+| 2020.09.27 | script模块:<br/>支持7种脚本语言(BeanShell/Groovy/JS/Lua/MVEL/Python/Ruby) |
 
 ****
 
@@ -120,7 +121,7 @@
 
 | 日期 | 变更记录 |
 | :----: | :----: |
-|  |  |
+| 2020.09.27 | 支持6种脚本语言(BeanShell/Groovy/JS/Lua/Python/Ruby) |
 
 ****
 
