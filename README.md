@@ -29,6 +29,7 @@
 | 2020.09.10 | codec模块:<br/>支持4种文本编解码(CSV/JSON/XML/YAML)<br/>支持4种二进制编解码(Hessian/Kryo/MessagePack/Standard) |
 | 2020.09.22 | event模块:<br/>支持2种事件模式(Queue/Topic)<br/>兼容11种消息传递协议/组件(AMQP/JMS/Kafka/Memory/MQTT/QMQ/RabbitMQ/Redis/RocketMQ/STOMP/Vert.x) |
 | 2020.09.27 | script模块:<br/>支持7种脚本语言(BeanShell/Groovy/JS/Lua/MVEL/Python/Ruby) |
+| 2020.09.28 | codec模块:<br/>支持4种文本编解码(CSV/JSON/XML/YAML)<br/>支持5种二进制编解码(Hessian/Kryo/MessagePack/Standard/Thrift) |
 
 ****
 
