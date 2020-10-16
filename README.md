@@ -31,6 +31,7 @@
 | 2020.09.27 | script模块:<br/>支持7种脚本语言(BeanShell/Groovy/JS/Lua/MVEL/Python/Ruby) |
 | 2020.09.28 | codec模块:<br/>支持4种文本编解码(CSV/JSON/XML/YAML)<br/>支持5种二进制编解码(Hessian/Kryo/MessagePack/Standard/Thrift) |
 | 2020.10.10 | codec模块:<br/>支持4种文本编解码(CSV/JSON/XML/YAML)<br/>支持6种二进制编解码(Avro/Hessian/Kryo/MessagePack/Standard/Thrift) |
+| 2020.10.16 | codec模块:<br/>支持4种文本编解码(CSV/JSON/XML/YAML)<br/>支持7种二进制编解码(Avro/CBOR/Hessian/Kryo/MessagePack/Standard/Thrift) |
 
 ****
 
