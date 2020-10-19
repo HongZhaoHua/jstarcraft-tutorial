@@ -32,6 +32,7 @@
 | 2020.09.28 | codec模块:<br/>支持4种文本编解码(CSV/JSON/XML/YAML)<br/>支持5种二进制编解码(Hessian/Kryo/MessagePack/Standard/Thrift) |
 | 2020.10.10 | codec模块:<br/>支持4种文本编解码(CSV/JSON/XML/YAML)<br/>支持6种二进制编解码(Avro/Hessian/Kryo/MessagePack/Standard/Thrift) |
 | 2020.10.16 | codec模块:<br/>支持4种文本编解码(CSV/JSON/XML/YAML)<br/>支持7种二进制编解码(Avro/CBOR/Hessian/Kryo/MessagePack/Standard/Thrift) |
+| 2020.10.17 | transaction模块:<br/>支持8种分布式锁(Cassandra/ElasticSearch/etcd/Hazelcast/Hibernate/Mongo/Redis/ZooKeeper) |
 
 ****
 
