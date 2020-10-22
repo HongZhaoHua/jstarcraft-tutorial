@@ -127,6 +127,7 @@
 | 日期 | 变更记录 |
 | :----: | :----: |
 | 2020.09.27 | 支持6种脚本语言(BeanShell/Groovy/JS/Lua/Python/Ruby) |
+| 2020.10.22 | 支持7种脚本语言(BeanShell/Groovy/JS/Kotlin/Lua/Python/Ruby) |
 
 ****
 
