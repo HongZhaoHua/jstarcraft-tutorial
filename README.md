@@ -35,7 +35,7 @@
 | 2020.10.17 | transaction模块:<br/>支持8种分布式锁(Cassandra/ElasticSearch/etcd/Hazelcast/Hibernate/Mongo/Redis/ZooKeeper)|
 | 2020.10.22 | script模块:<br/>支持8种脚本语言(BeanShell/Groovy/JS/Kotlin/Lua/MVEL/Python/Ruby) |
 | 2020.10.26 | codec模块:<br/>支持4种文本编解码(CSV/JSON/XML/YAML)<br/>支持8种二进制编解码(Avro/CBOR/Hessian/Ion/Kryo/MessagePack/Standard/Thrift) |
-| 2020.10.17 | transaction模块:<br/>支持9种分布式锁(Cassandra/Consul/ElasticSearch/etcd/Hazelcast/Hibernate/Mongo/Redis/ZooKeeper)|
+| 2020.10.27 | transaction模块:<br/>支持9种分布式锁(Cassandra/Consul/ElasticSearch/etcd/Hazelcast/Hibernate/Mongo/Redis/ZooKeeper)|
 
 ****
 
