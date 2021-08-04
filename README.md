@@ -36,6 +36,7 @@
 | 2020.10.22 | script模块:<br/>支持8种脚本语言(BeanShell/Groovy/JS/Kotlin/Lua/MVEL/Python/Ruby) |
 | 2020.10.26 | codec模块:<br/>支持4种文本编解码(CSV/JSON/XML/YAML)<br/>支持8种二进制编解码(Avro/CBOR/Hessian/Ion/Kryo/MessagePack/Standard/Thrift) |
 | 2020.10.27 | transaction模块:<br/>支持9种分布式锁(Cassandra/Consul/ElasticSearch/etcd/Hazelcast/Hibernate/Mongo/Redis/ZooKeeper)|
+| 2021.07.20 | io模块:<br/>支持2种流(Disk/HDFS)|
 
 ****
 
@@ -57,6 +58,7 @@
 | 2020.08.20 | profile模块:<br/>支持7种配置中间件(Apollo/Config/Consul/etcd/Nacos/Redis/ZooKeeper) |
 | 2020.08.21 | governance模块:<br/>支持5种治理中间件(Consul/etcd/Eureka/Nacos/ZooKeeper) |
 | 2020.08.24 | governance模块:<br/>支持6种治理中间件(Consul/etcd/Eureka/Nacos/Redis/ZooKeeper) |
+| 2021.08.04 | platform模块:<br/>支持6个平台(Alibaba/Amazon/Baidu/Huawei/Min/Tencent)|
 
 ****
 
