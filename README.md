@@ -18,47 +18,38 @@
 
 | 日期 | 变更记录 |
 | :----: | :----: |
-| 2020.04.16 | script模块:<br/>支持6种脚本语言(Groovy/JS/Lua/MVEL/Python/Ruby) |
-| 2020.05.01 | common模块selection包:<br/>支持4种查询表达式(CSS/JSONPath/RegExp/XPath)<br/>支持5种查询内容(JSON/HTML/Swing/Text/XML) |
-| 2020.05.08 | transaction模块:<br/>支持7种分布式锁(Cassandra/ElasticSearch/Hazelcast/Hibernate/Mongo/Redis/ZooKeeper) |
-| 2020.05.11 | common模块instant包:<br/>支持5种日期时间表达式(阳历/阴历/伊斯兰历/节气/间隔) |
-| 2020.06.03 | event模块:<br/>支持2种事件模式(Queue/Topic)<br/>兼容9种消息传递协议/组件(AMQP/JMS/Memory/MQTT/RabbitMQ/Redis/RocketMQ/STOMP/Vert.x) |
-| 2020.06.11 | event模块:<br/>支持2种事件模式(Queue/Topic)<br/>兼容10种消息传递协议/组件(AMQP/JMS/Kafka/Memory/MQTT/RabbitMQ/Redis/RocketMQ/STOMP/Vert.x) |
-| 2020.06.30 | storage模块:<br/>支持1种键值数据库(Berkeley DB)<br/>支持3种文档数据库(Elasticsearch/Lucene/Mongo DB)<br/>支持2种关系数据库(Hibernate/MyBatis)<br/>支持1种图数据库(Neo4j) |
-| 2020.09.09 | codec模块:<br/>支持3种文本编解码(CSV/JSON/YAML)<br/>支持3种二进制编解码(Kryo/MessagePack/Standard) |
-| 2020.09.10 | codec模块:<br/>支持4种文本编解码(CSV/JSON/XML/YAML)<br/>支持4种二进制编解码(Hessian/Kryo/MessagePack/Standard) |
-| 2020.09.22 | event模块:<br/>支持2种事件模式(Queue/Topic)<br/>兼容11种消息传递协议/组件(AMQP/JMS/Kafka/Memory/MQTT/QMQ/RabbitMQ/Redis/RocketMQ/STOMP/Vert.x) |
-| 2020.09.27 | script模块:<br/>支持7种脚本语言(BeanShell/Groovy/JS/Lua/MVEL/Python/Ruby) |
-| 2020.09.28 | codec模块:<br/>支持4种文本编解码(CSV/JSON/XML/YAML)<br/>支持5种二进制编解码(Hessian/Kryo/MessagePack/Standard/Thrift) |
-| 2020.10.10 | codec模块:<br/>支持4种文本编解码(CSV/JSON/XML/YAML)<br/>支持6种二进制编解码(Avro/Hessian/Kryo/MessagePack/Standard/Thrift) |
-| 2020.10.16 | codec模块:<br/>支持4种文本编解码(CSV/JSON/XML/YAML)<br/>支持7种二进制编解码(Avro/CBOR/Hessian/Kryo/MessagePack/Standard/Thrift) |
-| 2020.10.17 | transaction模块:<br/>支持8种分布式锁(Cassandra/ElasticSearch/etcd/Hazelcast/Hibernate/Mongo/Redis/ZooKeeper)|
-| 2020.10.22 | script模块:<br/>支持8种脚本语言(BeanShell/Groovy/JS/Kotlin/Lua/MVEL/Python/Ruby) |
-| 2020.10.26 | codec模块:<br/>支持4种文本编解码(CSV/JSON/XML/YAML)<br/>支持8种二进制编解码(Avro/CBOR/Hessian/Ion/Kryo/MessagePack/Standard/Thrift) |
-| 2020.10.27 | transaction模块:<br/>支持9种分布式锁(Cassandra/Consul/ElasticSearch/etcd/Hazelcast/Hibernate/Mongo/Redis/ZooKeeper)|
 | 2021.07.20 | io模块:<br/>支持2种流(Disk/HDFS)|
+| 2020.10.27 | transaction模块:<br/>支持9种分布式锁(Cassandra/Consul/ElasticSearch/etcd/Hazelcast/Hibernate/Mongo/Redis/ZooKeeper)|
+| 2020.10.26 | codec模块:<br/>支持4种文本编解码(CSV/JSON/XML/YAML)<br/>支持8种二进制编解码(Avro/CBOR/Hessian/Ion/Kryo/MessagePack/Standard/Thrift) |
+| 2020.10.22 | script模块:<br/>支持8种脚本语言(BeanShell/Groovy/JS/Kotlin/Lua/MVEL/Python/Ruby) |
+| 2020.10.17 | transaction模块:<br/>支持8种分布式锁(Cassandra/ElasticSearch/etcd/Hazelcast/Hibernate/Mongo/Redis/ZooKeeper)|
+| 2020.10.16 | codec模块:<br/>支持4种文本编解码(CSV/JSON/XML/YAML)<br/>支持7种二进制编解码(Avro/CBOR/Hessian/Kryo/MessagePack/Standard/Thrift) |
+| 2020.10.10 | codec模块:<br/>支持4种文本编解码(CSV/JSON/XML/YAML)<br/>支持6种二进制编解码(Avro/Hessian/Kryo/MessagePack/Standard/Thrift) |
+| 2020.09.28 | codec模块:<br/>支持4种文本编解码(CSV/JSON/XML/YAML)<br/>支持5种二进制编解码(Hessian/Kryo/MessagePack/Standard/Thrift) |
+| 2020.09.27 | script模块:<br/>支持7种脚本语言(BeanShell/Groovy/JS/Lua/MVEL/Python/Ruby) |
+| 2020.09.22 | event模块:<br/>支持2种事件模式(Queue/Topic)<br/>兼容11种消息传递协议/组件(AMQP/JMS/Kafka/Memory/MQTT/QMQ/RabbitMQ/Redis/RocketMQ/STOMP/Vert.x) |
+| 2020.09.10 | codec模块:<br/>支持4种文本编解码(CSV/JSON/XML/YAML)<br/>支持4种二进制编解码(Hessian/Kryo/MessagePack/Standard) |
+| 2020.09.09 | codec模块:<br/>支持3种文本编解码(CSV/JSON/YAML)<br/>支持3种二进制编解码(Kryo/MessagePack/Standard) |
+| 2020.06.30 | storage模块:<br/>支持1种键值数据库(Berkeley DB)<br/>支持3种文档数据库(Elasticsearch/Lucene/Mongo DB)<br/>支持2种关系数据库(Hibernate/MyBatis)<br/>支持1种图数据库(Neo4j) |
+| 2020.06.03 | event模块:<br/>支持2种事件模式(Queue/Topic)<br/>兼容9种消息传递协议/组件(AMQP/JMS/Memory/MQTT/RabbitMQ/Redis/RocketMQ/STOMP/Vert.x) |
+| 2020.05.11 | common模块instant包:<br/>支持5种日期时间表达式(阳历/阴历/伊斯兰历/节气/间隔) |
+| 2020.05.08 | transaction模块:<br/>支持7种分布式锁(Cassandra/ElasticSearch/Hazelcast/Hibernate/Mongo/Redis/ZooKeeper) |
+| 2020.05.01 | common模块selection包:<br/>支持4种查询表达式(CSS/JSONPath/RegExp/XPath)<br/>支持5种查询内容(JSON/HTML/Swing/Text/XML) |
+| 2020.04.16 | script模块:<br/>支持6种脚本语言(Groovy/JS/Lua/MVEL/Python/Ruby) |
 
 ****
 
 ## JStarCraft Cloud
 
-目标是提供一个通用的中间件抽象层,作为云项目的基础.
+目标是提供一个通用的云服务抽象层,作为项目的基础.
 
 让相关领域的研发人员能够在各种实现层之间无缝切换.
-
-涵盖了配置中间件,治理中间件,监控中间件,网关中间件和云服务5个方面.
 
 [https://github.com/HongZhaoHua/jstarcraft-cloud](https://github.com/HongZhaoHua/jstarcraft-cloud)
 
 | 日期 | 变更记录 |
 | :----: | :----: |
-| 2020.08.14 | governance模块:<br/>支持3种治理中间件(Consul/Eureka/Nacos) |
-| 2020.08.17 | profile模块:<br/>支持3种配置中间件(Config/Consul/Nacos) |
-| 2020.08.19 | profile模块:<br/>支持5种配置中间件(Apollo/Config/Consul/Nacos/ZooKeeper) |
-| 2020.08.20 | profile模块:<br/>支持7种配置中间件(Apollo/Config/Consul/etcd/Nacos/Redis/ZooKeeper) |
-| 2020.08.21 | governance模块:<br/>支持5种治理中间件(Consul/etcd/Eureka/Nacos/ZooKeeper) |
-| 2020.08.24 | governance模块:<br/>支持6种治理中间件(Consul/etcd/Eureka/Nacos/Redis/ZooKeeper) |
-| 2021.08.04 | platform模块:<br/>支持6个平台(Alibaba/Amazon/Baidu/Huawei/Min/Tencent)|
+| 2021.07.30 | platform模块:<br/>支持8个平台(Alibaba/Amazon/Baidu/Huawei/Min/Qiniu/Tencent/Upyun)|
 
 ****
 
@@ -74,12 +65,12 @@
 
 | 日期 | 变更记录 |
 | :----: | :----: |
-| 2020.05.14 | math模块structure包:<br/>支持10种向量结构 |
-| 2020.05.14 | math模块algorithm包:<br/>支持5种文本局部敏感哈希 |
-| 2020.05.20 | math模块algorithm包:<br/>支持TF-IDF与BM25 |
-| 2020.06.09 | math模块algorithm包:<br/>支持20种核技巧 |
-| 2020.06.09 | math模块algorithm包:<br/>支持核距离与核相似度 |
 | 2020.07.07 | math模块algorithm包:<br/>支持微积分导数 |
+| 2020.06.09 | math模块algorithm包:<br/>支持核距离与核相似度 |
+| 2020.06.09 | math模块algorithm包:<br/>支持20种核技巧 |
+| 2020.05.20 | math模块algorithm包:<br/>支持TF-IDF与BM25 |
+| 2020.05.14 | math模块algorithm包:<br/>支持5种文本局部敏感哈希 |
+| 2020.05.14 | math模块structure包:<br/>支持10种向量结构 |
 
 ****
 
@@ -95,8 +86,8 @@
 
 | 日期 | 变更记录 |
 | :----: | :----: |
-| 2020.05.30 | 支持4种图像局部敏感哈希 |
-| 2020.06.05 | 支持9种图像局部敏感哈希 |
+| 2020.06.05 | dip模块:支持9种图像局部敏感哈希 |
+| 2020.05.30 | dip模块:支持4种图像局部敏感哈希 |
 
 ****
 
@@ -118,6 +109,27 @@
 
 ****
 
+## JStarCraft Middleware
+
+目标是提供一个通用的中间件抽象层,作为项目的基础.
+
+让相关领域的研发人员能够在各种实现层之间无缝切换.
+
+涵盖了配置中间件,治理中间件,监控中间件,网关中间件和事务中间件5个方面.
+
+[https://github.com/HongZhaoHua/jstarcraft-middleware](https://github.com/HongZhaoHua/jstarcraft-middleware)
+
+| 日期 | 变更记录 |
+| :----: | :----: |
+| 2020.08.24 | governance模块:<br/>支持6种治理中间件(Consul/etcd/Eureka/Nacos/Redis/ZooKeeper) |
+| 2020.08.21 | governance模块:<br/>支持5种治理中间件(Consul/etcd/Eureka/Nacos/ZooKeeper) |
+| 2020.08.20 | profile模块:<br/>支持7种配置中间件(Apollo/Config/Consul/etcd/Nacos/Redis/ZooKeeper) |
+| 2020.08.19 | profile模块:<br/>支持5种配置中间件(Apollo/Config/Consul/Nacos/ZooKeeper) |
+| 2020.08.17 | profile模块:<br/>支持3种配置中间件(Config/Consul/Nacos) |
+| 2020.08.14 | governance模块:<br/>支持3种治理中间件(Consul/Eureka/Nacos) |
+
+****
+
 ## JStarCraft RNS
 
 专注于解决推荐领域与搜索领域的两个核心问题:**排序预测(Ranking)和评分预测(Rating)**.
@@ -130,8 +142,8 @@
 
 | 日期 | 变更记录 |
 | :----: | :----: |
-| 2020.09.27 | 支持6种脚本语言(BeanShell/Groovy/JS/Lua/Python/Ruby) |
 | 2020.10.22 | 支持7种脚本语言(BeanShell/Groovy/JS/Kotlin/Lua/Python/Ruby) |
+| 2020.09.27 | 支持6种脚本语言(BeanShell/Groovy/JS/Lua/Python/Ruby) |
 
 ****
 
